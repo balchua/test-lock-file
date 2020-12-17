@@ -1,5 +1,11 @@
 ## How to run
 
+Precompiled binary:
+
+1. Download the [test-lock](test-lock)
+2. Copy it to some location, ex. `/data/`
+3. Make the file executable, `chmod +x test-lock`
+
 ```shell
 $ ./test-lock filename 
 ```
